@@ -3,3 +3,4 @@
 git remote add origin無しでもいけるか実験。
 もはやgit push だけでいけるのでは？
 git pushだけではいけなかったので、addを抜いてみる
+addはいる。一回つないでしまえばremoteはいらない
